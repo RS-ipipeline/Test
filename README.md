@@ -2,7 +2,7 @@
 Initial Text
 
 ## This is a test file for Ryan to play.
-Secondry heading text
+Secondry heading text.
 
 ### Heading 3
 Third heading text
